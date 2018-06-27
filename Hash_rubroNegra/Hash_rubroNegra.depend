@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1530044931 source:d:\documents\ufrr\estrutura de dados ii\hash_rubronegra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.c"
+
+1530045211 d:\documents\ufrr\estrutura de dados ii\hash_rubronegra\funcoes.c
+	<stdlib.h>
+	<stdio.h>
+	"funcoes.h"
+
+1530044657 d:\documents\ufrr\estrutura de dados ii\hash_rubronegra\funcoes.h
+
