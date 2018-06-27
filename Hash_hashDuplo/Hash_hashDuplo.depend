@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1530070016 source:d:\documents\disciplinas - ufrr\estrutura de dados ii\hash_hashduplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.c"
+
+1530070818 d:\documents\disciplinas - ufrr\estrutura de dados ii\hash_hashduplo\funcoes.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"funcoes.h"
+
+1530070824 d:\documents\disciplinas - ufrr\estrutura de dados ii\hash_hashduplo\funcoes.h
+
